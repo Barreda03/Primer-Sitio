@@ -1,0 +1,67 @@
+body{
+    background-color: rgba(137, 43, 226, 0.706);
+    padding: 4%;
+}
+
+.titulo{
+   text-align: center;
+   color: aliceblue;
+   font-size: larger;
+}
+
+.subtitulo{
+    font-size: 25px;
+}
+
+.links{
+    text-align: center;
+    font-size: larger;
+}
+
+#primer-art{
+    color: aliceblue;
+    font-size: larger;
+}
+
+.art-segundo{
+    color: aliceblue;
+    font-size: larger;
+}
+
+.recomendacion{
+    color: aliceblue;
+    font-size: larger;
+}
+
+.art-pen{
+    color: aliceblue;
+    font-size: larger;
+}
+
+.art-ultimo{
+    color: aliceblue;
+    font-size: larger;
+}
+
+#emojis{
+    color: aliceblue;
+    font-size: larger;
+}
+
+p{
+    font-size: larger;
+}
+
+#lista{
+    font-size: larger;
+}
+
+.aside{
+    padding: 10px;
+    width: 50%;
+    max-width: 150px;
+    min-width: 200px;
+    float: right;
+    background-color: rgb(233, 239, 240);
+    border: rgb(0, 0, 0) solid 5px;
+}
